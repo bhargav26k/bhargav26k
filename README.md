@@ -1,57 +1,74 @@
-<h1 align="center">Hi 👋, I'm Bhargav Karlapudi</h1>
-<h3 align="center">A passionate Web and Software developer from Pune IN</h3>
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Aspiring DevOps & Cloud Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav26k&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav26k" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav26k" alt="bhargav26k" /></a> </p>
+### 💡 About Me
 
-<p align="left"> <a href="https://twitter.com/bhargav26k" target="blank"><img src="https://img.shields.io/twitter/follow/bhargav26k?logo=twitter&style=for-the-badge" alt="bhargav26k" /></a> </p>
+- 🔭 I’m currently working at **Dexpert Systems** as a **Software Engineer**, contributing to products that impact **100,000+ users**.  
+- 🌱 I’m diving deeper into **DevOps, CI/CD**, and **Cloud Engineering**, with a focus on **Docker**, **Kubernetes**, and **AWS**.  
+- 🚀 I have a passion for building impactful solutions, from **ERP platforms** to **payment systems** and **utility software**.  
+- 🎯 My current side project: **SageHabit** – a multi-role platform for tracking daily learning progress with gamification and streak features.  
+- 📚 In my free time, I explore **cybersecurity**, learn about **fraud detection techniques**, and stay updated with the latest in **tech and startups**.
 
-- 🔭 I’m currently working on [Instagram Clone©️](https://codesandbox.io/s/icy-shadow-2f8fp3)
+---
 
-- 🌱 I’m currently learning **MERN Stack🧑‍💻**
+### 🛠️ Technologies & Tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhargav26k?tab=repositories](https://github.com/bhargav26k?tab=repositories)
+#### Languages:
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📝 I regularly write articles on [https://www.startup.ind.in](https://www.startup.ind.in)
+#### Frameworks, Libraries & Tools:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-- 📫 How to reach me **bhargav2691@gmail.com**
+#### DevOps:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E3RmPoskUV13cC4pZ5o9gTx_KW92IsEO/view?usp=sharing](https://drive.google.com/file/d/1E3RmPoskUV13cC4pZ5o9gTx_KW92IsEO/view?usp=sharing)
+#### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- ⚡ Fun fact **I am an Ambivert😁**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://dev.to/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://twitter.com/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20280611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20280611" height="30" width="40" /></a>
-<a href="https://codesandbox.com/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhargavkarlapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhargavkarlapudi" height="30" width="40" /></a>
-<a href="https://fb.com/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://instagram.com/bhargavkarlapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhargavkarlapudi" height="30" width="40" /></a>
-<a href="https://dribbble.com/bhargav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bhargav26" height="30" width="40" /></a>
-<a href="https://www.behance.net/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhargav26k" height="30" width="40" /></a>
-<a href="https://medium.com/@searchtools" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@searchtools" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjaruobozhygupggqxz68fq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjaruobozhygupggqxz68fq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhargav26k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhargav26k" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/bhargav26k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="bhargav26k" height="30" width="40" /></a>
-<a href="https://discord.gg/bhargav26k#5133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhargav26k#5133" height="30" width="40" /></a>
+### 🌟 My Projects
+
+#### **[SageHabit](https://github.com/your-profile/sagehabit)**
+- A learning progress tracking platform with gamified streaks, task management, and peer-learning features.  
+- Built using **Flutter, Next.js, TypeScript, GraphQL, PostgreSQL**, and **Redis**.  
+
+#### **[MyGPTLens Chrome Extension](https://github.com/your-profile/mygptlens)**
+- AI-powered Chrome extension enabling smarter searches with text and image-based queries.  
+- Extracts text via **OCR** and provides instant AI responses.  
+
+#### **Company Products**
+- Contributed to high-scale products like **One Pitara ERP**, **PayPlatter**, and **Water Billing Software**, used by thousands of clients.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak stats" width="48%"/>
 </p>
 
+---
 
+### 🤝 Let's Connect!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargav26k&show_icons=true&locale=en&layout=compact" alt="bhargav26k" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargav26k&show_icons=true&locale=en" alt="bhargav26k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav26k&" alt="bhargav26k" /></p>
+⭐️ *"Striving to make an impact one line of code at a time."*  
