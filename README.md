@@ -41,11 +41,11 @@
 
 ### 🌟 My Projects
 
-#### **[SageHabit](https://github.com/your-profile/sagehabit)**
+#### **[SageHabit]**
 - A learning progress tracking platform with gamified streaks, task management, and peer-learning features.  
 - Built using **Flutter, Next.js, TypeScript, GraphQL, PostgreSQL**, and **Redis**.  
 
-#### **[MyGPTLens Chrome Extension](https://github.com/your-profile/mygptlens)**
+#### **[MyGPTLens Chrome Extension]**
 - AI-powered Chrome extension enabling smarter searches with text and image-based queries.  
 - Extracts text via **OCR** and provides instant AI responses.  
 
@@ -57,8 +57,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav26k&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
 </p>
 
 ---
